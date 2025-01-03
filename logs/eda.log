@@ -1,0 +1,95 @@
+2025-01-03 14:41:55,603 - Started Exploratory Data Analysis (EDA)
+2025-01-03 14:41:56,827 - Data loaded and merged successfully
+2025-01-03 14:41:56,827 - Started handling missing values
+2025-01-03 14:41:56,962 - Handled missing values
+2025-01-03 14:41:56,962 - Creating plot: Distribution of Promotions
+2025-01-03 14:41:57,786 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:41:58,331 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 14:41:58,660 - Creating plot: Sales Behavior Around Holidays
+2025-01-03 14:41:58,998 - Creating plot: Seasonal Behavior (Monthly Sales Trends)
+2025-01-03 14:41:59,824 - Creating plot: Sales vs Customers
+2025-01-03 14:42:02,614 - Creating plot: Promo Effectiveness (Average Sales with and without Promotion)
+2025-01-03 14:42:02,872 - Creating plot: Competitor Distance Impact on Sales
+2025-01-03 14:42:06,369 - All visualizations created and saved successfully
+2025-01-03 14:42:06,369 - Saving cleaned data to CSV
+2025-01-03 14:42:16,609 - EDA and output saving completed successfully
+2025-01-03 15:43:32,073 - Started Exploratory Data Analysis (EDA)
+2025-01-03 15:43:32,955 - Data loaded and merged successfully
+2025-01-03 15:43:32,955 - Started handling missing values
+2025-01-03 15:43:33,042 - Handled missing values
+2025-01-03 15:43:33,043 - Creating plot: Distribution of Promotions
+2025-01-03 15:43:35,163 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:43:35,637 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:43:35,933 - Creating plot: Sales Behavior Around Holidays
+2025-01-03 15:43:36,514 - Creating plot: Seasonal Behavior (Monthly Sales Trends)
+2025-01-03 15:43:37,393 - Creating plot: Sales vs Customers
+2025-01-03 15:43:40,543 - Creating plot: Promo Effectiveness (Average Sales with and without Promotion)
+2025-01-03 15:43:41,006 - Creating plot: Competitor Distance Impact on Sales
+2025-01-03 15:43:46,117 - All visualizations created and saved successfully
+2025-01-03 15:43:46,117 - Saving cleaned data to CSV
+2025-01-03 15:43:56,185 - EDA and output saving completed successfully
+2025-01-03 15:46:01,441 - Started data cleaning
+2025-01-03 15:46:02,475 - Merged train and test datasets with store data
+2025-01-03 15:46:02,475 - Handled missing values
+2025-01-03 15:46:11,021 - Saved cleaned training data to 'cleaned_train.csv'
+2025-01-03 15:46:12,491 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:46:12,975 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:46:13,262 - Saved distribution of promotions plot
+2025-01-03 15:46:13,881 - Saved sales during holidays plot
+2025-01-03 15:46:14,766 - Saved monthly sales trends plot
+2025-01-03 15:46:14,766 - Performed EDA and visualizations
+2025-01-03 15:46:14,766 - Completed the EDA process
+2025-01-03 15:48:28,511 - Started data cleaning
+2025-01-03 15:48:29,576 - Merged train and test datasets with store data
+2025-01-03 15:48:29,576 - Handled missing values
+2025-01-03 15:48:38,312 - Saved cleaned training data to 'cleaned_train.csv'
+2025-01-03 15:48:39,721 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:48:40,721 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:48:44,422 - Saved distribution of promotions plot
+2025-01-03 15:48:46,296 - Saved sales during holidays plot
+2025-01-03 15:48:48,546 - Saved monthly sales trends plot
+2025-01-03 15:48:48,546 - Performed EDA and visualizations
+2025-01-03 15:48:48,546 - Completed the EDA process
+2025-01-03 15:55:33,671 - Started data cleaning
+2025-01-03 15:55:34,682 - Merged train and test datasets with store data
+2025-01-03 15:55:34,682 - Handled missing values
+2025-01-03 15:55:43,703 - Saved cleaned training data to 'cleaned_train.csv'
+2025-01-03 15:55:45,282 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:55:45,990 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 15:55:48,817 - Saved distribution of promotions plot
+2025-01-03 15:55:50,213 - Saved sales during holidays plot
+2025-01-03 15:55:51,920 - Saved monthly sales trends plot
+2025-01-03 15:55:53,291 - Saved average sales with promotions plot
+2025-01-03 15:55:53,291 - Performed EDA and visualizations
+2025-01-03 15:55:53,291 - Completed the EDA process
+2025-01-03 16:01:50,979 - Started data cleaning
+2025-01-03 16:01:51,943 - Merged train and test datasets with store data
+2025-01-03 16:01:51,943 - Handled missing values
+2025-01-03 16:02:01,582 - Saved cleaned training data to 'cleaned_train.csv'
+2025-01-03 16:02:01,582 - Saved cleaned test data to 'cleaned_test.csv'
+2025-01-03 16:02:01,583 - Saved cleaned store data to 'cleaned_store.csv'
+2025-01-03 16:02:02,483 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 16:02:03,252 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 16:02:07,853 - Saved distribution of promotions plot
+2025-01-03 16:02:09,399 - Saved sales during holidays plot
+2025-01-03 16:02:11,084 - Saved monthly sales trends plot
+2025-01-03 16:02:12,985 - Saved average sales with promotions plot
+2025-01-03 16:02:12,985 - Performed EDA and visualizations
+2025-01-03 16:02:12,985 - Completed the EDA process
+2025-01-03 16:08:29,794 - Started data cleaning
+2025-01-03 16:11:44,033 - Started data cleaning
+2025-01-03 16:15:52,374 - Started data cleaning
+2025-01-03 16:15:53,627 - Merged train and test datasets with store data
+2025-01-03 16:15:53,627 - Handled missing values
+2025-01-03 16:16:02,345 - Saved cleaned training data to 'cleaned_train.csv'
+2025-01-03 16:16:02,346 - Saved cleaned test data to 'cleaned_test.csv'
+2025-01-03 16:16:02,346 - Saved cleaned store data to 'cleaned_store.csv'
+2025-01-03 16:16:02,346 - Saved cleaned sample_submission data to 'cleaned_sample_submission.csv'
+2025-01-03 16:16:03,967 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 16:16:05,093 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-03 16:16:08,667 - Saved distribution of promotions plot
+2025-01-03 16:16:10,032 - Saved sales during holidays plot
+2025-01-03 16:16:11,610 - Saved monthly sales trends plot
+2025-01-03 16:16:13,377 - Saved average sales with promotions plot
+2025-01-03 16:16:13,377 - Performed EDA and visualizations
+2025-01-03 16:16:13,377 - Completed the EDA process

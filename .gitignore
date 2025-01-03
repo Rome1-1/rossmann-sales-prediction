@@ -1,0 +1,49 @@
+# Python Virtual Environment
+venv/
+.env/
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# JetBrains IDEs
+.idea/
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Test coverage and reports
+coverage/
+*.cover
+nosetests.xml
+test-results/
+
+# Build artifacts
+build/
+dist/
+*.tar.gz
+*.zip
+*.egg
+.vscode/
+venv/
+.env/
+*.pyc
+__pycache__/
+.tox/
+.coverage
+.nox/
+.hypothesis/
+.pytest_cache/
